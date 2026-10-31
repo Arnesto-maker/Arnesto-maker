@@ -20,11 +20,8 @@ A passionate **Software Development Student & Electrical Engineering Technician*
 
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnesto-maker&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
